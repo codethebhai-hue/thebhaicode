@@ -1,0 +1,6 @@
+JS (Day 1)
+string
+number
+boolean
+object
+array
